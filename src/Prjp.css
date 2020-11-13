@@ -1,0 +1,17 @@
+*{padding: 0;margin: 0; box-sizing: border-box;}
+
+.jaii {
+   background-color: black;
+   font-family: 'Frijole', cursive;
+   border-radius: 25%;
+   font-weight: bold;
+   font-size: 12vh;
+}
+@media(max-width:500px){
+    .jaii{
+        font-size: 5vh;
+        border-radius: 25%;
+        font-weight: bold;
+    }
+}
+
